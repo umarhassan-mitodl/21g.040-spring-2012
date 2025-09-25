@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the reading assignments of the course, listed by
   lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -97,9 +99,9 @@ History and Memory
 {{< tdopen >}}
 
 
-Thapar, R. "{{% resource_link "6c3eb4b3-72fd-4eeb-9547-36e9177b8f51" "In Defence of History" %}}." Lecture delivered at Thiruvananthapuram, 2002.
+Thapar, R. "[In Defence of History](http://www.india-seminar.com/2003/521/521%20romila%20thapar.htm)." Lecture delivered at Thiruvananthapuram, 2002.
 
-Ramanujan, A. "{{% resource_link "28467c21-88cb-4e75-8650-5adb2d5f2c0d" "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation" %}}." Chapter 2 in _Many Ramayanas: The Diversity of a Narrative Tradition in South Asia_. Edited by P. Richman. University of California Press, 1991. ISBN: 9780520075894.
+Ramanujan, A. "[Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation](http://publishing.cdlib.org/ucpressebooks/view?docId=ft3j49n8h7&chunk.id=d0e1254)." Chapter 2 in _Many Ramayanas: The Diversity of a Narrative Tradition in South Asia_. Edited by P. Richman. University of California Press, 1991. ISBN: 9780520075894.
 
 
 {{< tdclose >}}
