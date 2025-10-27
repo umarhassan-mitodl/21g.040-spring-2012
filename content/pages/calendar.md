@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides an overview of the topics and material covered
   in each class session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -146,7 +144,7 @@ History and Memory
 
 Romila Thapar, "[In Defence of History](http://www.india-seminar.com/2003/521/521 romila thapar.htm)."
 
-A. K. Ramanujan, "[Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation](http://publishing.cdlib.org/ucpressebooks/view?docId=ft3j49n8h7&chunk.id=d0e1254)."
+A. K. Ramanujan, "{{% resource_link "f19df435-ae54-4ea1-bbb3-555547273bf0" "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation" %}}."
 
 Guest lecture on Dalit Literature (Richard Delacy, Harvard University)
 
